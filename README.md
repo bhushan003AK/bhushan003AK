@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Bhushan👋
 
 <!--
 **bhushan003AK/bhushan003AK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
